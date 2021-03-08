@@ -1,0 +1,9 @@
+v0.1.2 - Updated functions for FoundryVTT 0.7.1 and DND5E System 0.95
+v0.1a -  Removed Spellbook from showing up on Player's Sheet - [Thanks! Phenomen]
+v0.1 - Initial Version 
+    * Remove Arcana and Religion Skills from Actors
+    * Add Lore, Riddle, Shadow-Lore, Traditions
+    * Remove PP and EP from showing up on Actor Sheets
+    * Currency Conversion function fixed for AiME (1 gold = 20 silver / 1 silver = 12 copper )
+    * Change of Languages for AiME
+    * Removed items not appropriate from Middle-Earth from being options (Scrolls, Wands, etc...)

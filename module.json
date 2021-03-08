@@ -1,0 +1,13 @@
+{
+  "name": "aime",
+  "title": "Adventures in Middle-Earth",
+  "description": "Adventures in Middle-Earth in the DND5E System.",
+  "version": "0.1.2",
+  "author": "Alakar",
+  "compatibleCoreVersion": "0.7.1",
+  "minimumCoreVersion": "0.6.2",
+  "url": "https://gitlab.com/paub/aime-module",
+  "author": "Alakar",
+  "manifest": "https://gitlab.com/paub/aime-module/-/raw/master/module.json",
+  "download": "https://gitlab.com/paub/aime-module/-/archive/master/aime-module-master.zip"
+}
